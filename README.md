@@ -1,5 +1,5 @@
 # account-checking
-find differences and similarity  between two account
+find differences and similarity  between two account.
 作用：
 查找两个账务（excel）记录表中的相同记录，并保持到1个excel文件中，剩下的部分分别保持到两个文件中。
 相同记录判别规则：
